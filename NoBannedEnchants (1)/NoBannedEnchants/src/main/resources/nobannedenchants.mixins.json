@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "com.thegreenvillagesmp.nobannedenchants.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["AnvilScreenHandlerMixin"],
+  "injectors": {"defaultRequire": 1}
+}
